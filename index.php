@@ -23,7 +23,7 @@ get_header(); ?>
 
 			<div class="wp-about">
 				<div class="about-img">
-					<img class="img-responsive" src="<?php bloginfo('template_url'); ?>/dist/images/smile.png" alt="">
+					<img class="img-responsive" src="<?php bloginfo('template_url'); ?>/dist/images/main-photo.jpg" alt="Main Photo">
 				</div>
 				<div class="about-description">
 					<h3>Hello</h3>
