@@ -31,7 +31,7 @@ get_header(); ?>
 					<h2>Junior Front-end Developer</h2>
 					<div class="about-description_details">
 						<p>Age <span>24</span></p>
-						<p>Address <br><span>14017, Ukraine, Chernigov, Zhabinskogo str.</span></p>
+						<p>Address <br><span>01032, Ukraine, Kiev, Antonovicha 16.</span></p>
 						<p>E-mail <br><a href="mailto:tymofyeyevrobert@gmail.com" title="Mail"><span>tymofyeyevrobert@gmail.com</span></a> </p>
 						<p>Phone <br><a href="tel:+380930285403" title="Call"><span>+38 (093) 028-54-03</span></a></p>
 					</div>
