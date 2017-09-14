@@ -30,7 +30,7 @@
 					<div class="contact-description">
 						<p>E-mail <br><a href="mailto:tymofyeyevrobert@gmail.com" title="Mail"><span>tymofyeyevrobert@gmail.com</span></a></p>
 						<p>Phone/Telegram/Skype <br><a href="tel:+380930285403" title="Call"><span>+38 (093) 028-54-03</span></a></p>
-						<p>Address <br><span>14017, Ukraine, Chernigov, Zhabinskogo str.</span></p>
+						<p>Address <br><span>01032, Ukraine, Kiev, Antonovicha 16</span></p>
 					</div>
 
 					<div>
